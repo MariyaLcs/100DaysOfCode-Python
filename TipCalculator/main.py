@@ -12,5 +12,6 @@ total = float(total)
 total_with_tips = total * (1+int(percentage)/100)
 per_person = total_with_tips / int(num_of_people)
 rounded = round(per_person,2)
+# rounded = "{:.2f}".format(per_person) => .00
 
 print(f"Each person should pay: £{rounded}")

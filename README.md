@@ -7,3 +7,7 @@
 ### Day 2
 
 [Tip Calculator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TipCalculator/main.py)
+
+### Day 3
+
+Treasure Island
