@@ -39,7 +39,7 @@ elif player==2:
 
 rundom_num = random.randint(0,2)
 computer = [rock, paper, scissors][rundom_num]
-print(f"Computer chose:\n {computer} {rundom_num}")
+print(f"Computer chose: {rundom_num}\n {computer}")
 
 
 if player==rundom_num:
