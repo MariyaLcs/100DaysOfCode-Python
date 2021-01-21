@@ -12,6 +12,10 @@
 
 [Treasure Island](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TreasureIsland/main.py)
 
+### Day 4
+
+Rock, Paper, Scissors Game
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
