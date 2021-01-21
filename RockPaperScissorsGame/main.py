@@ -42,24 +42,22 @@ computer = [rock, paper, scissors][rundom_num]
 print(f"Computer chose:\n {computer} {rundom_num}")
 
 
-if player==0:  
+if player==rundom_num:
+  print("Drow")
+elif player==0:  
   if rundom_num==2:
     print("You win")
-  elif rundom_num==0:
-    print("Drow")
   else:
-    print("You lost")
+    print("You lose")
 elif player==1:
   if rundom_num==0:
     print("You win")
-  elif rundom_num==1:
-    print("Drow")
   else:
-    print("You lost")
+    print("You lose")
 elif player==2:
   if rundom_num==1:
     print("You win")
-  elif rundom_num==2:
-    print("Drow")
   else:
-    print("You lost")
+    print("You lose")
+else:
+    print("You typed an invalid number. You lose")
