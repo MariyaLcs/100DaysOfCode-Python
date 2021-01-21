@@ -1,4 +1,4 @@
-#Ex1
+#Ex1 Sum of two digit numbers
 
 two_digit_number = input("Type a two digit number: ")
 
@@ -8,7 +8,7 @@ first =two_digit_number[0]
 second =two_digit_number[1]
 print(int(first)+int(second))
 
-#Ex2
+#Ex2 BMI(v1)
 
 height = input("enter your height in m: ")
 weight = input("enter your weight in kg: ")
@@ -18,7 +18,7 @@ weight = input("enter your weight in kg: ")
 BMI = int(weight)/float(height)**2
 print(int(BMI))
 
-#Ex3
+#Ex3 Weeks/days of the life left
 
 age = input("What is your current age? ")
 
