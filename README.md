@@ -14,7 +14,7 @@
 
 ### Day 4
 
-Rock, Paper, Scissors Game
+[Rock, Paper, Scissors Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/RockPaperScissorsGame/main.py)
 
 #### Useful Links from the course
 
