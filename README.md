@@ -10,5 +10,8 @@
 
 ### Day 3
 
-- [ASCII ART](https://ascii.co.uk/art)
-  [Treasure Island](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TreasureIsland/main.py)
+[Treasure Island](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TreasureIsland/main.py)
+
+#### Useful Links from the course
+
+[ASCII ART](https://ascii.co.uk/art)
