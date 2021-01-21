@@ -16,6 +16,10 @@
 
 [Rock, Paper, Scissors Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/RockPaperScissorsGame/main.py)
 
+### Day 5
+
+Password Generator
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
