@@ -22,8 +22,13 @@
 
 ### Day 6
 
-Escaping the Maze
+Escaping the Maze - Reeborg's world
+
+### Day 7
+
+Hangman Project
 
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
+[Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=problem_world.json&url=user_world%3Aproblem_world.json)
