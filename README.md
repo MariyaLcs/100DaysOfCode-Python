@@ -20,6 +20,10 @@
 
 [Password Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/PasswordGenerator/main.py)
 
+### Day 6
+
+Escaping the Maze
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
