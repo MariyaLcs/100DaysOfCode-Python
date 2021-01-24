@@ -51,3 +51,25 @@ for pos in range(0, len(chosen_word)): # a in aadwark=> a==a=>display[0]
 #T#ODO-3: - Print 'display' and you should see the guessed letter in the correct position and every other letter replace with "_".
 #Hint - Don't worry about getting the user to guess the next letter. We'll tackle that in step 3.
 print(display)
+
+#Step 3
+#Create blanks
+display = []
+for _ in range(word_length):
+    display += "_"
+
+#TODO-1: - Use a while loop to let the user guess again. The loop should only stop once the user has guessed all the letters in the chosen_word and 'display' has no more blanks ("_"). Then you can tell the user they've won.
+for char in range(len(display)):
+    while display[char] == "_":
+        guess = input("Guess a letter: ").lower()
+
+
+        #Check guessed letter
+        for position in range(word_length):
+            letter = chosen_word[position]
+            
+            if letter == guess:
+                display[position] = letter
+
+        print(display)
+print("You won")
