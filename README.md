@@ -26,7 +26,7 @@ Escaping the Maze - Reeborg's world
 
 ### Day 7
 
-Hangman Project
+[Hangman Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HangmanProject/main.py)
 
 #### Useful Links from the course
 
