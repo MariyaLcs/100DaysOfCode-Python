@@ -1,8 +1,6 @@
 [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
-### Day 1
-
-[Band Name Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/BandNameGenerator/main.py)
+### Day 1 [Band Name Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/BandNameGenerator/main.py)
 
 ### Day 2
 
@@ -27,6 +25,10 @@ Escaping the Maze - Reeborg's world
 ### Day 7
 
 [Hangman Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HangmanProject/main.py)
+
+### Day 8
+
+Caesar Cipher
 
 #### Useful Links from the course
 
