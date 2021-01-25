@@ -2,33 +2,19 @@
 
 ### Day 1 [Band Name Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/BandNameGenerator/main.py)
 
-### Day 2
+### Day 2 [Tip Calculator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TipCalculator/main.py)
 
-[Tip Calculator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TipCalculator/main.py)
+### Day 3 [Treasure Island](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TreasureIsland/main.py)
 
-### Day 3
+### Day 4 [Rock, Paper, Scissors Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/RockPaperScissorsGame/main.py)
 
-[Treasure Island](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TreasureIsland/main.py)
+### Day 5 [Password Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/PasswordGenerator/main.py)
 
-### Day 4
+### Day 6 Escaping the Maze - Reeborg's world
 
-[Rock, Paper, Scissors Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/RockPaperScissorsGame/main.py)
+### Day 7 [Hangman Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HangmanProject/main.py)
 
-### Day 5
-
-[Password Generator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/PasswordGenerator/main.py)
-
-### Day 6
-
-Escaping the Maze - Reeborg's world
-
-### Day 7
-
-[Hangman Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HangmanProject/main.py)
-
-### Day 8
-
-Caesar Cipher
+### Day 8 Caesar Cipher
 
 #### Useful Links from the course
 
