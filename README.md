@@ -16,7 +16,7 @@
 
 ### Day 8 [Caesar Cipher](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CaesarCipher/main.py)
 
-### Day 9 Secret Auction
+### Day 9 [Secret Auction](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/SecretAuction/main.py)
 
 #### Useful Links from the course
 

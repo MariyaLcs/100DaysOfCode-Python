@@ -1,28 +1,29 @@
+#link to Repl 
+#https://repl.it/@MashaPodosinova/blind-auction-start#main.py
+
 from replit import clear
+#HINT: You can call clear() to clear the output in the console.
 from art import logo
 print(logo)
 
-data=[]
+data={}
 
 auction_in_progress = True
-def add_new_player(name, bid):
-    new_player={}
-    new_player["name"]=name
-    new_player["bid"]=bid
-    data.append(new_player)
-
-highest = 0
-
 while auction_in_progress:
     name = input("What is your name?: ")
     bid = int(input ("What is your bid?: £"))
-    answer = input("Are there any other bidders? Type 'yes' or 'no'. ").lower()   
-    add_new_player(name=name, bid=bid)
+    answer = input("Are there any other bidders? Type 'yes' or 'no'. ").lower()
+
+    data[name] = bid
+
     clear()
-    if answer== "no":
+    if answer == "no":
         auction_in_progress = False
-for item in range(0, len(data)):
-    if data[item]["bid"] > highest:
-        highest = data[item]["bid"]
-        name = data[item]["name"]
+
+for player in data:
+    highest = 0
+    print(data[player])
+    if data[player] > highest:
+        highest = data[player]
+        name = player
 print(f"The winner is {name} with a bid of £{highest}")
