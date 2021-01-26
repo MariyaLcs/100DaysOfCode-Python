@@ -14,7 +14,9 @@
 
 ### Day 7 [Hangman Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HangmanProject/main.py)
 
-### Day 8 Caesar Cipher
+### Day 8 [Caesar Cipher](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CaesarCipher/main.py)
+
+### Day 9 Secret Auction
 
 #### Useful Links from the course
 
