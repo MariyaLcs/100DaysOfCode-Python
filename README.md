@@ -18,6 +18,8 @@
 
 ### Day 9 [Secret Auction](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/SecretAuction/main.py)
 
+### Day 10 Calculator
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
