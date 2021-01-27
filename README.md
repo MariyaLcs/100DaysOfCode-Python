@@ -18,7 +18,9 @@
 
 ### Day 9 [Secret Auction](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/SecretAuction/main.py)
 
-### Day 10 Calculator
+### Day 10 [Calculator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/Calculator/main.py)
+
+### Day 11 Blackjack Game
 
 #### Useful Links from the course
 
