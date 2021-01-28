@@ -20,7 +20,9 @@
 
 ### Day 10 [Calculator](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/Calculator/main.py)
 
-### Day 11 Blackjack Game
+### Day 11 [Blackjack Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/BlackjackGame/main.py)
+
+### Day 12
 
 #### Useful Links from the course
 
