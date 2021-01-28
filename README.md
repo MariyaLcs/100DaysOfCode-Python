@@ -22,7 +22,7 @@
 
 ### Day 11 [Blackjack Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/BlackjackGame/main.py)
 
-### Day 12 Number Guessing Game
+### Day 12 [Number Guessing Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/NumberGuessingGame/main.py)
 
 #### Useful Links from the course
 
