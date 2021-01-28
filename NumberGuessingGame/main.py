@@ -20,19 +20,16 @@ player_number= int(input("Make a guess: "))
 
 game_on = True
 
-def attempt_counter():  
-    return attempt - 1
-
 while game_on:        
       
     if player_number > game_number:
         print("Too high,\nGuess again!\n")
-        attempt = attempt_counter()
+        attempt -= 1
         print(f"\nYou have {attempt} attempts remaining to guess the number.")        
         player_number= int(input("Make a guess: "))  
     elif player_number < game_number:
         print("Too low,\nGuess again!\n")
-        attempt = attempt_counter()
+        attempt -= 1
         print(f"\nYou have {attempt} attempts remaining to guess the number.")        
         player_number= int(input("Make a guess: "))  
         
