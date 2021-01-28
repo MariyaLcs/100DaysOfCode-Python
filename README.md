@@ -24,6 +24,8 @@
 
 ### Day 12 [Number Guessing Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/NumberGuessingGame/main.py)
 
+### Day 13 Debugging
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
