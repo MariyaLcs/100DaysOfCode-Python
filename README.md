@@ -26,6 +26,8 @@
 
 ### Day 13 Debugging
 
+### Day 14 Higher Lower Game
+
 #### Useful Links from the course
 
 [ASCII ART](https://ascii.co.uk/art)
