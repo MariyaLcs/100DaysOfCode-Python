@@ -28,7 +28,7 @@
 
 ### Day 14 [Higher Lower Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HigherLowerGame/main.py)
 
-### Day 14 Coffee Machine Project
+### Day 14 [Coffee Machine Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CoffeeMachine/main.py)
 
 #### Useful Links from the course
 
