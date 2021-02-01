@@ -26,7 +26,9 @@
 
 ### Day 13 Debugging
 
-### Day 14 Higher Lower Game
+### Day 14 [Higher Lower Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HigherLowerGame/main.py)
+
+### Day 14 Coffee Machine Project
 
 #### Useful Links from the course
 
