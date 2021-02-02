@@ -28,11 +28,19 @@
 
 ### Day 14 [Higher Lower Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/HigherLowerGame/main.py)
 
-### Day 14 [Coffee Machine Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CoffeeMachine/main.py)
+### Day 15 [Coffee Machine Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CoffeeMachine/main.py)
+
+### Day 16 OOP
 
 #### Useful Links from the course
 
-[ASCII ART](https://ascii.co.uk/art)
-[Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=problem_world.json&url=user_world%3Aproblem_world.json)
-[ASCII Graffiti](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
-[Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+- Beginner Part
+  [ASCII ART](https://ascii.co.uk/art)
+  [Reeborg's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=problem_world.json&url=user_world%3Aproblem_world.json)
+  [ASCII Graffiti](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+  [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
+
+- Intermediate Part
+  [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)
+  [PrettyTable](https://pypi.org/project/prettytable/)
+  [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
