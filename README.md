@@ -32,6 +32,8 @@
 
 ### Day 16 OOP, [Refactor CoffeeMachine](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/OOPDay16/oop-coffee-machine-start/oop-coffee-machine-start/main.py)
 
+### Day 17 Quiz Game
+
 #### Useful Links from the course
 
 - Beginner Part
