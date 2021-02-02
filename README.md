@@ -30,7 +30,7 @@
 
 ### Day 15 [Coffee Machine Project](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/CoffeeMachine/main.py)
 
-### Day 16 OOP
+### Day 16 OOP, [Refactor CoffeeMachine](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/OOPDay16/oop-coffee-machine-start/oop-coffee-machine-start/main.py)
 
 #### Useful Links from the course
 
