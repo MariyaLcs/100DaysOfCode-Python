@@ -32,7 +32,7 @@
 
 ### Day 16 OOP, [Refactor CoffeeMachine](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/OOPDay16/oop-coffee-machine-start/oop-coffee-machine-start/main.py)
 
-### Day 17 Quiz Game
+### Day 17 [Quiz Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/QuizGame/quiz-game-start/main.py)
 
 #### Useful Links from the course
 
@@ -46,3 +46,4 @@
   [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)
   [PrettyTable](https://pypi.org/project/prettytable/)
   [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
+  [TRIVIA Free to use, user-contributed trivia question database.](https://opentdb.com/)
