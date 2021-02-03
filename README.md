@@ -34,6 +34,8 @@
 
 ### Day 17 [Quiz Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/QuizGame/quiz-game-start/main.py)
 
+### Day 18 Turtle Graphics
+
 #### Useful Links from the course
 
 - Beginner Part
