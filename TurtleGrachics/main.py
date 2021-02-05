@@ -14,16 +14,25 @@ timmy_the_turtle.color("DarkOrchid")
 #     timmy_the_turtle.right(90)
 
 # Draw a Dashed line
-for _ in range(20):
-    timmy_the_turtle.forward(5)
-    timmy_the_turtle.up()
-    timmy_the_turtle.forward(5)
-    timmy_the_turtle.down()
+# for _ in range(20):
+#     timmy_the_turtle.forward(5)
+#     timmy_the_turtle.up()
+#     timmy_the_turtle.forward(5)
+#     timmy_the_turtle.down()
+
+# Drawing Different Shapes
 
 
+def draw_shape(side):
+    angle = 360 / side
+
+    for _ in range(side):
+        timmy_the_turtle.forward(100)
+        timmy_the_turtle.right(angle)
 
 
-
+for shape_side_n in range(3, 11):
+    draw_shape(shape_side_n)
 
 
 
