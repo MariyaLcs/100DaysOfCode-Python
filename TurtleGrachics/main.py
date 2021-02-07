@@ -1,5 +1,5 @@
-#https://docs.python.org/3/library/turtle.html
-#https://cs111.wellesley.edu/labs/lab01/colors
+# https://docs.python.org/3/library/turtle.html
+# https://cs111.wellesley.edu/labs/lab01/colors
 
 from turtle import Turtle, Screen
 
@@ -21,23 +21,13 @@ timmy_the_turtle.color("DarkOrchid")
 #     timmy_the_turtle.down()
 
 # Drawing Different Shapes
+import random
 
-
-def draw_shape(side):
-    angle = 360 / side
-
-    for _ in range(side):
+for i in range(3, 11):
+    timmy_the_turtle.color(random.random(), random.random(), random.random())
+    for _ in range(i):
         timmy_the_turtle.forward(100)
-        timmy_the_turtle.right(angle)
-
-
-for shape_side_n in range(3, 11):
-    draw_shape(shape_side_n)
-
-
-
-
-
+        timmy_the_turtle.right(360 / i)
 
 screen = Screen()
 screen.exitonclick()
