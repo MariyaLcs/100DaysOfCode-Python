@@ -34,7 +34,7 @@
 
 ### Day 17 [Quiz Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/QuizGame/quiz-game-start/main.py)
 
-### Day 18 Turtle Graphics
+### Day 18 [Turtle Graphics](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TurtleGraphics/hirst-painting-start/main.py)
 
 #### Useful Links from the course
 
@@ -49,3 +49,4 @@
   [PrettyTable](https://pypi.org/project/prettytable/)
   [prettytable - Tutorial.wiki](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)
   [TRIVIA Free to use, user-contributed trivia question database.](https://opentdb.com/)
+  [colorgram.py is a Python library that lets you extract colors from images](https://pypi.org/project/colorgram.py/)
