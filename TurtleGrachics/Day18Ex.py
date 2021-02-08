@@ -1,7 +1,7 @@
 # https://docs.python.org/3/library/turtle.html
 # https://cs111.wellesley.edu/labs/lab01/colors
 
-from turtle import Turtle, Screen, forward, up, down
+from turtle import Turtle, Screen
 
 timmy_the_turtle = Turtle()
 
@@ -21,7 +21,7 @@ timmy_the_turtle.color("DarkOrchid")
 #     timmy_the_turtle.down()
 
 # Drawing Different Shapes
-#import random
+# import random
 #
 # for i in range(3, 11):
 #     timmy_the_turtle.color(random.random(), random.random(), random.random())
@@ -29,7 +29,7 @@ timmy_the_turtle.color("DarkOrchid")
 #         timmy_the_turtle.forward(100)
 #         timmy_the_turtle.right(360/i)
 
-#Generate a random walk
+# Generate a random walk
 # import random
 
 # directions = [0, 90, 180, 270]
@@ -40,7 +40,17 @@ timmy_the_turtle.color("DarkOrchid")
 #     timmy_the_turtle.forward(30)
 #     timmy_the_turtle.setheading(random.choice(directions))
 
-#Drow a Spirograph
+# Draw a Spirograph
+import random
+
+timmy_the_turtle.speed(15)
+angle = 4
+for i in range(90):
+    timmy_the_turtle.color(random.random(), random.random(), random.random())
+    timmy_the_turtle.circle(100)
+    timmy_the_turtle.setheading(angle)
+    angle += 4
+
 
 
 screen = Screen()
