@@ -31,21 +31,16 @@ import random
 
 #Generate a random walk
 
+directions = [0, 90, 180, 270]
 for _ in range(100):
     timmy_the_turtle.speed(6)
+    timmy_the_turtle.pensize(12)
     timmy_the_turtle.color(random.random(), random.random(), random.random())
-    length = random.randint(0, 5) * 10
-    random_generate = random.randint(1, 4)
-    if random_generate == 1:
-        timmy_the_turtle.forward(length)
-    elif random_generate == 2:
-        timmy_the_turtle.right(90)
-        timmy_the_turtle.forward(length)
-    elif random_generate == 3:
-        timmy_the_turtle.right(-90)
-        timmy_the_turtle.forward(length)
-    else:
-        timmy_the_turtle.backward(length)
+    timmy_the_turtle.forward(30)
+    timmy_the_turtle.setheading(random.choice(directions))
+
+
+
 
 
 screen = Screen()
