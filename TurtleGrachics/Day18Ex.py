@@ -44,13 +44,15 @@ timmy_the_turtle.color("DarkOrchid")
 import random
 
 timmy_the_turtle.speed(15)
-angle = 4
-for i in range(90):
-    timmy_the_turtle.color(random.random(), random.random(), random.random())
-    timmy_the_turtle.circle(100)
-    timmy_the_turtle.setheading(angle)
-    angle += 4
 
+def draw_spirograph(size_of_gap):
+    for _ in range(int(360 / size_of_gap)):
+        timmy_the_turtle.color(random.random(), random.random(), random.random())
+        timmy_the_turtle.circle(100)
+        timmy_the_turtle.setheading(timmy_the_turtle.heading() + size_of_gap)
+
+
+draw_spirograph(5)
 
 
 screen = Screen()
