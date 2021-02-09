@@ -36,6 +36,8 @@
 
 ### Day 18 [Turtle Graphics](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TurtleGraphics/hirst-painting-start/main.py)
 
+### Day 19 Turtle Race
+
 #### Useful Links from the course
 
 - Beginner Part
