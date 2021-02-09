@@ -25,10 +25,10 @@ def clear():
 
 
 screen.listen()
-screen.onkey(key="w", fun=move_forwards)
-screen.onkey(key="s", fun=move_backwards)
-screen.onkey(key="a", fun=move_counter_clockwise)
-screen.onkey(key="d", fun=move_clockwise)
-screen.onkey(key="c", fun=clear)
+screen.onkey(move_forwards, "w")
+screen.onkey(move_backwards, "s")
+screen.onkey(move_counter_clockwise, "a")
+screen.onkey(move_clockwise, "d")
+screen.onkey(clear, "c")
 
 screen.exitonclick()
