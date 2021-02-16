@@ -38,7 +38,9 @@
 
 ### Day 19 [Turtle Race](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/TurtleRace/turtle-race-start/main.py)
 
-### Day 20 Snake Game
+### Day 20 and Day 21 [Snake Game](https://github.com/MariyaLcs/100DaysOfCode-Python/blob/main/SnakeGame/main.py)
+
+### Day 22 Pong Game
 
 #### Useful Links from the course
 
