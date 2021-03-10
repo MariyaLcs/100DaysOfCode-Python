@@ -42,7 +42,9 @@
 
 ### Day 22 [Pong Game](https://github.com/MariyaLcs/100DaysOfCode-Python/tree/main/PongGame)
 
-### Day 23 Turtle Crossing Game
+### Day 23 [Turtle Crossing Game](https://github.com/MariyaLcs/100DaysOfCode-Python/tree/main/TurtleCrossingGame)
+
+### Day 24 Snake Game v2
 
 #### Useful Links from the course
 
