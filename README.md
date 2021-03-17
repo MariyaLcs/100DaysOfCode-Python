@@ -44,7 +44,7 @@
 
 ### Day 23 [Turtle Crossing Game](https://github.com/MariyaLcs/100DaysOfCode-Python/tree/main/TurtleCrossingGame)
 
-### Day 24 Snake Game v2
+### Day 24 Mail Merge
 
 #### Useful Links from the course
 
