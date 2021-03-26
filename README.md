@@ -46,7 +46,9 @@
 
 ### Day 24 [Mail Merge](https://github.com/MariyaLcs/100DaysOfCode-Python/tree/main/MailMerge)
 
-### Day 25 U.S. States Game
+### Day 25 [U.S. States Game](https://github.com/MariyaLcs/100DaysOfCode-Python/tree/main/USStatesGame)
+
+### Day 26 NATO Alphabet
 
 #### Useful Links from the course
 
